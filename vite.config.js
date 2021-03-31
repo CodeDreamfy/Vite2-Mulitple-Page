@@ -67,7 +67,7 @@ export default ({ mode }) =>
     // server: {
     //   proxy: {
     //     '/api': {
-    //       target: 'http://backend-api-02.newbee.ltd/manage-api/v1',
+    //       target: '/api/v1/xx',
     //       changeOrigin: true,
     //       rewrite: path => path.replace(/^\/api/, '')
     //     }
